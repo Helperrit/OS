@@ -1,0 +1,9 @@
+## Algorithm
+
+1. **Start the program.**
+2. Create a `struct dirent` to store directory entries.
+3. Declare the necessary variables, such as `buff` and a pointer `dptr` for directory handling.
+4. Get the directory name as input from the user or another source.
+5. Open the specified directory.
+6. Read the contents of the directory and print them one by one.
+7. Close the directory after reading.
