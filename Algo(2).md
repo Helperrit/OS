@@ -17,16 +17,6 @@ This program demonstrates how to use the `fork()` system call to create a new pr
 
 ---
 
-## Features
-
-- Demonstrates process creation using `fork()`.
-- Retrieves and prints process IDs for both parent and child processes.
-- Serves as an introduction to basic process management in system programming.
-
----
-
-## Example Usage
-
 1. Compile the program:
    ```bash
    gcc -o process_id process_id.c
