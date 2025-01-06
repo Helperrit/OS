@@ -1,4 +1,4 @@
-//9. IPC USING SHARED MEMORY
+//9. IPC USING SHARED MEMORY (IPC_Sender)
 #include<stdio.h>
 #include<stdlib.h>
 #include<unistd.h>
