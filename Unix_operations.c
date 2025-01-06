@@ -1,4 +1,4 @@
-%%writefile 1.c
+//  PROGRAM FOR SYSTEM CALLS OF UNIX OPERATING SYSTEMS (OPENDIR, READDIR CLOSEDIR)
 #include <stdio.h>
 #include <stdlib.h>
 #include <dirent.h>
